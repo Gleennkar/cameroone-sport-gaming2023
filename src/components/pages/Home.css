@@ -1,0 +1,55 @@
+.container {
+  background-image: url("../../images/Group-66.png");
+   background-size: cover; 
+  background-position: center; 
+  position: relative;
+  height: 100vh;
+}
+
+.container img:first-child {
+    display: block; 
+    width: 90%;
+    height: 80%;
+    /* Add more styles as needed */
+  }
+  
+.img {
+    position: absolute;
+    top: 5%;
+    left: 84%;
+    transform: translate(-100%, -40%);
+    z-index: 1;
+    width: 20%;
+  
+
+  }
+
+  .home-title{
+    margin-right: 65%;
+    font-size: 36px;
+    font-weight: bold;
+    color: hsl(0 -7% 83% / 13);
+    padding-left: 9%;
+    font-family: ui-sans-serif;
+    margin-top: -40%;
+  }
+
+  .home-para {
+    color: hsl(0 0% 132% / 1);
+    padding-left: 9%;
+    margin-right: 64%;
+    font-size: 16px;
+    margin-top: 3%;
+    font-family: unset;
+  }
+
+  .btn {
+    background: linear-gradient(90deg, #009649 0%, #43E7AD 57.81%, #FEF200 100%);
+    padding: ;
+    margin-left: 9%;
+    padding: 13px;
+    padding-right: 39px;
+    padding-left: 39px;
+    border-radius: 9px;
+  }
+  

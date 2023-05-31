@@ -1,0 +1,68 @@
+.container-propos {
+background: url("../../../images/Rectangle-15.png");
+position: absolute;
+width: 50%;
+height: 80%;
+left: 25%;
+top:35%;
+background: linear-gradient(90deg, #009649f5 0%, #182b25 57.81%, #182b25 100%);
+border-radius: 17px;
+}
+
+.container-propos p {   
+color: rgba(255, 255, 255, 1);
+position: absolute;
+width: 90%;
+height: 308px;
+left: 5%;
+top: 20%;
+font-family: 'Clash Display';
+font-style: normal;
+font-weight: 200;
+font-size: 14px;
+line-height: 150%;
+/* or 21px */
+
+letter-spacing: -0.403187px;
+}
+
+.container-propos h4 {
+    background: linear-gradient(90deg, #009649 0%, #43E7AD 57.81%, #FEF200 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    left: 5%;
+    position: absolute;
+width: 116px;
+height: 30px;
+left: 42px;
+top: 0%;
+
+font-family: 'Clash Display';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+
+letter-spacing: -0.403187px;
+}
+
+.container-propos h2 {
+color:  rgba(255, 255, 255, 1);
+position: absolute;
+width: 580px;
+height: 44px;
+left: 5%;
+top: 5%;
+font-family: 'Clash Display';
+font-style: normal;
+font-weight: 300;
+font-size: 30px;
+line-height: 44px;
+letter-spacing: -0.403187px;
+color: #FFFFFF;
+  
+    
+}

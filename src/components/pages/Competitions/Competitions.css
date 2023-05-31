@@ -1,0 +1,37 @@
+
+.competition {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-bottom: 10%;
+    background: #1e4136;
+    padding-bottom: 8%;
+}
+.competition h2 {
+    width: 34%;
+    height: 81px;
+    margin-left: 5%;
+    font-family: 'Clash Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 176%;
+    line-height: 69px;
+    background: linear-gradient(90deg, #009649 0%, #43E7AD 57.81%, #FEF200 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.competition .game1 {
+    /* position: absolute; */
+    width: 20%;
+    margin-left: -21%;
+    margin-top: 30%;
+    height: 10%;
+}
+
+.game2 {
+    width: 20%;
+    margin-left: 5%;
+    margin-top: 9%;
+
+}

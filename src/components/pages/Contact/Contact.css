@@ -1,0 +1,32 @@
+.contact h1 {
+    width: 50%;
+    height: 81px;
+    margin-left: 5%;
+    font-family: 'Clash Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 176%;
+    line-height: 69px;
+    background: linear-gradient(90deg, #009649 0%, #43E7AD 57.81%, #FEF200 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.photo {
+    width: 50%;
+    height: 20%;
+    margin-left: 20%;
+}
+
+.contact {
+    background: #1e4136;
+    margin-bottom: 5%;
+    padding-bottom: 13%;
+    padding-top: 5%;
+}
+
+.btn1 {
+  width: 8%;
+  padding: 5px;
+ margin-left: 87%;
+}
